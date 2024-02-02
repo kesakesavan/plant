@@ -116,7 +116,7 @@ body.dark-theme{
   --first-color-dark: hsl(var(--hue), 8%, 20%);
   --title-color: hsl(var(--hue), 4%, 95%);
   --text-color: hsl(var(--hue), 4%, 75%);
-  --body-color: hsl(var(--hue), 8%, 12%);
+  --body-color: hsl(var(--hue),8%, 12%);
   --container-color: hsl(var(--hue), 8%, 16%);
 }
 
@@ -239,7 +239,7 @@ the website, in dark theme
 @media screen and (max-width: 767px){
   .nav__menu{
     position: fixed;
-    background-color: var(--container-color);
+    background-color:hsl(var(--hue),8%, 12%);
     width: 80%;
     height: 100%;
     top: 0;
