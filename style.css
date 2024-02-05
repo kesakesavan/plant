@@ -253,8 +253,21 @@ the website, in dark theme
   }
   body{
     background-color:hsl(var(--hue),8%, 12%);
-    color: #FFF;
+    
   }
+  .dark-theme .steps__bg,
+.dark-theme .questions{
+  background-color: var(--first-color-dark);
+}
+
+.dark-theme .product__circle,
+.dark-theme .footer__subscribe{
+  background-color: var(--container-color);
+}
+
+.dark-theme .scroll-header{
+  box-shadow: 0 1px 4px hsla(var(--hue), 4%, 4%, .3);
+}
 }
 
 .nav__close{
