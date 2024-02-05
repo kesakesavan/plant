@@ -255,20 +255,45 @@ the website, in dark theme
     background-color:hsl(var(--hue),8%, 12%);
     
   }
-  .dark-theme .steps__bg,
-.dark-theme .questions{
-  background-color: var(--first-color-dark);
+  .nav__link{
+    color: var(--title-color);
+  }
+  .home__social-follow{
+    color: #FFF;
+    
+  }
+  .button{
+    
+    background-color: rgba(67, 165, 105, 0.993);
+    color: #FFF;
+    
+  }
+  
+  .button:hover{
+    background-color: var(--first-color-alt);
+  }
+  
+.about__details-icon{
+  color: black;
+  
+}
+.about__title{
+  color: #FFF;
 }
 
-.dark-theme .product__circle,
-.dark-theme .footer__subscribe{
-  background-color: var(--container-color);
+.about__description{
+  color: #FFF;
 }
 
-.dark-theme .scroll-header{
-  box-shadow: 0 1px 4px hsla(var(--hue), 4%, 4%, .3);
+.about__details{
+  color: #FFF;
+}
+
+.about__details-description{
+  color: #FFF;
 }
 }
+  
 
 .nav__close{
   font-size: 1.5rem;
