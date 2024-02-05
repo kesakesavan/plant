@@ -255,43 +255,17 @@ the website, in dark theme
     background-color:hsl(var(--hue),8%, 12%);
     
   }
+  body{
+    background-color: var(--body-color);
+    color: var(--text-color);
+    transition: .4s; /*For animation dark mode*/
+  }
   .nav__link{
     color: var(--title-color);
   }
-  .home__social-follow{
-    color: #FFF;
-    
-  }
-  .button{
-    
-    background-color: rgba(67, 165, 105, 0.993);
-    color: #FFF;
-    
-  }
   
-  .button:hover{
-    background-color: var(--first-color-alt);
-  }
   
-.about__details-icon{
-  color: black;
   
-}
-.about__title{
-  color: #FFF;
-}
-
-.about__description{
-  color: #FFF;
-}
-
-.about__details{
-  color: #FFF;
-}
-
-.about__details-description{
-  color: #FFF;
-}
 }
   
 
