@@ -253,6 +253,7 @@ the website, in dark theme
   }
   body{
     background-color:hsl(var(--hue),8%, 12%);
+    color: #FFF;
   }
 }
 
