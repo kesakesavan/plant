@@ -255,6 +255,9 @@ the website, in dark theme
     background-color:hsl(var(--hue),8%, 12%);
     
   }
+  .about section .container{
+    background-color: hsl(var(--hue),8%, 12%);
+  }
   body{
     background-color: var(--body-color);
     color: var(--text-color);
