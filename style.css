@@ -293,8 +293,10 @@ the website, in dark theme
   .about__details-description{
     color: #FFF;
   }
+  .product__title{
+    color: #FFF;
+  }
   
-  .product__title,
 .product__price{
   
   color: #FFF;
@@ -310,13 +312,23 @@ the website, in dark theme
     color: #01040a;
   }
 
-  .contact__box .section__title {
+  .contact__box .section__title h2 {
     color: #FFF;
   }
-  .contact__subtitle{
+  .contact__information.contact__subtitle{
     color: #FFF;
   }
-  .contact__description{
+  .contact__information.contact__description{
+    color: rgb(216, 201, 182);
+  }
+
+  .footer__content .footer__logo{
+    color: #FFF;
+  }
+  .footer__title{
+    color: #FFF;
+  }
+  .footer__information{
     color: rgb(216, 201, 182);
   }
   
