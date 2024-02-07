@@ -251,6 +251,17 @@ the website, in dark theme
     transition: .3s;
     z-index: var(--z-fixed);
   }
+  
+  .home{
+    
+    /* color: black; */
+  }
+  .home__title{
+    color: #FFF;
+  }
+  .home__description{
+    color: aliceblue;
+  }
   body{
     background-color:hsl(var(--hue),8%, 12%);
     
@@ -260,7 +271,7 @@ the website, in dark theme
   }
   
   .nav__link{
-    color: var(--title-color);
+    color: #FFF;
   }
   
   
@@ -323,6 +334,7 @@ the website, in dark theme
 /*=============== HOME ===============*/
 .home{
   padding: 3.5rem 0 2rem;
+
 }
 
 .home__container{
