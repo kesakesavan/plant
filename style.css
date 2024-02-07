@@ -283,7 +283,7 @@ the website, in dark theme
   }
   
   .about__description{
-    color: #FFF;
+    color: honeydew;
   }
   
   .about__details{
@@ -306,6 +306,19 @@ the website, in dark theme
     color: #FFF;
   }
   
+  .section__title-center {
+    color: #01040a;
+  }
+
+  .contact__box .section__title {
+    color: #FFF;
+  }
+  .contact__subtitle{
+    color: #FFF;
+  }
+  .contact__description{
+    color: rgb(216, 201, 182);
+  }
   
 }
   
