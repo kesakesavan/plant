@@ -251,7 +251,7 @@ the website, in dark theme
     transition: .3s;
     z-index: var(--z-fixed);
   }
-  
+
   .home{
     
     /* color: black; */
@@ -273,6 +273,28 @@ the website, in dark theme
   .nav__link{
     color: #FFF;
   }
+
+  .nav__list{
+    color: #FFF;
+  }
+
+  .about__title{
+    color: #FFF;
+  }
+  
+  .about__description{
+    color: #FFF;
+  }
+  
+  .about__details{
+    color: #FFF;
+  }
+  
+  .about__details-description{
+    color: #FFF;
+  }
+  
+  
   
   
   
