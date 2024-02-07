@@ -294,8 +294,17 @@ the website, in dark theme
     color: #FFF;
   }
   
+  .product__title,
+.product__price{
   
-  
+  color: #FFF;
+}
+.product__description{
+  color: #FFF;
+}
+  .section__title-center{
+    color: #FFF;
+  }
   
   
 }
