@@ -270,9 +270,10 @@ the website, in dark theme
     background-color: hsl(var(--hue),8%, 12%);
   }
   
-  .nav__link{
-    color: #FFF;
+  .nav__item .nav__link{
+    color: #fff;
   }
+ 
 
   .nav__list{
     color: #FFF;
