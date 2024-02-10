@@ -293,23 +293,23 @@ the website, in dark theme
   .about__details-description{
     color: #FFF;
   }
-  .product__title{
+  .product__card .product__title{
     color: #FFF;
   }
   
-.product__price{
+.product__card .product__price{
   
-  color: #FFF;
+  color: rgb(216, 201, 182);
 }
 .product__description{
   color: #FFF;
 }
-  .section__title-center{
+  .product section.section__title-center{
     color: #FFF;
   }
   
   .section__title-center {
-    color: #01040a;
+    color: #dadee7;
   }
 
   .contact__box .section__title h2 {
