@@ -308,17 +308,20 @@ the website, in dark theme
     color: #FFF;
   }
   
-  .section__title-center {
+ .section__title-center {
     color: #dadee7;
   }
+  .section__title-center{
+    color: rgba(67, 165, 105, 0.993);
+  }
 
-  .contact__box .section__title h2 {
-    color: #FFF;
+  .contact__box .contact__title{
+    color: #f5efef;
   }
-  .contact__information.contact__subtitle{
-    color: #FFF;
+  .contact__information .contact__subtitle{
+    color: #c7c1c1;
   }
-  .contact__information.contact__description{
+  .contact__information .contact__description{
     color: rgb(216, 201, 182);
   }
 
